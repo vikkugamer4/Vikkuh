@@ -13,7 +13,7 @@ from telegram.ext import (
 logging.basicConfig(level=logging.INFO)
 
 # Bot Token & Group ID
-TOKEN = "7861458890:AAELMEzs-xr0C57SF1Z7s9NYSaQOdXMfwVs"  # Replace with actual bot token
+TOKEN = "7452801234:AAGSsFGCRxoQzzQ9G_0zBXfIuS9AplGSqzw"  # Replace with actual bot token
 CHANNEL_ID = -1002650037232 # Replace with your group/channel ID
 
 # Attack & Cooldown Config
